@@ -1,0 +1,3 @@
+// u izrazu nije moguće postaviti zagrade kako bi korisnik definisao redosled mat.operacija
+// testirano sa unosom kombinacija slova i brojeva - program se ponasa ocekivano
+
